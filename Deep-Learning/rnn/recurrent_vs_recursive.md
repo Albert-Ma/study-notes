@@ -36,6 +36,8 @@ $ p_{1,2} = tanh(W[c_{1};c_{2}]+b) $
 对句子进行建模的话，假设句子是一个树结构，由主语、谓语和宾语等组成，而每个部分又可以分成几个小部分，即某一部分的信息由它的子树的信息组合而来，
 整句话的信息由组成这句话的几个部分组合而来。
 
+![Aaron Swartz](https://raw.githubusercontent.com/Albert-xy/study-notes/master/Deep-Learning/rnn/images/example%20of%20recursive%20nn.png)
+
 递归神经网络的训练算法和循环神经网络类似，两者不同之处在于，前者需要将残差从根节点反向传播到各个子节点，而后者是将残差从当前时刻反向传播到初始时刻。
 
 递归神经网络因为无法处理随着递归，权重指数级爆炸或消失的问题（Vanishing gradient problem）。
