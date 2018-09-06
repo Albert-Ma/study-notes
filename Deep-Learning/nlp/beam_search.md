@@ -57,7 +57,7 @@ maximizes the conditional probability of a trained NMT model. The beam search st
 [0.5, 0.4, 0.3, 0.2, 0.1],  
 [0.1, 0.2, 0.3, 0.4, 0.5],
 
-![Aaron Swartz](https://raw.githubusercontent.com/Albert-xy/study-notes/master/Deep-Learning/nlp/images/beam_search_result.jpg)
+![Aaron Swartz](https://raw.githubusercontent.com/Albert-xy/study-notes/master/Deep-Learning/nlp/images/beam_search_result.png)
 
 
 ## Reference
