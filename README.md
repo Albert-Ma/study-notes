@@ -15,7 +15,7 @@
 
 ## Other Notes
 
-+ 2018/9/6 update: [Beam Search in NLP]()
++ 2018/9/6 update: [Beam Search in NLP](https://github.com/Albert-xy/study-notes/blob/master/Deep-Learning/nlp/beam_search.md)
 
 + 2018/9/6 update: [Perplexity]()
 
