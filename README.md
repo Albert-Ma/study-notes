@@ -6,7 +6,7 @@
 
 ### book:Neural Network Methods in Natural Language Processing
 
-update: ![chapter 1's notes and ppt](https://github.com/Albert-xy/study-notes/tree/master/Deep Learning/nlp/books/Neural%20Network%20Methods%20in%20Natural%20Language%20Processing)  2018/9/6
+update: [chapter 1's notes and ppt](https://github.com/Albert-xy/study-notes/tree/master/Deep Learning/nlp/books/Neural%20Network%20Methods%20in%20Natural%20Language%20Processing)  2018/9/6
 
 
 ## Paper Notes
@@ -16,4 +16,4 @@ update: ![chapter 1's notes and ppt](https://github.com/Albert-xy/study-notes/tr
 
 ### Recurrent Neural Network vs Recursive Neural Network
 
-update: ![notes](https://github.com/Albert-xy/study-notes/blob/master/Deep-Learning/rnn/recurrent_vs_recursive.md)
+update: [notes](https://github.com/Albert-xy/study-notes/blob/master/Deep-Learning/rnn/recurrent_vs_recursive.md)
