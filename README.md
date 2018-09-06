@@ -1,4 +1,6 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 # study-notes
+
 
 *Today you pay time to write down,tomorrow you get "comprehenseive" understanding*
 
