@@ -13,6 +13,8 @@
 
 + 2018/9/6 update: [Sequence to Sequence Learning with Neural Networks]()
 
++ 2018/9/8 update: [A Neural Probabilistic Language Model]()
+
 ## Other Notes
 
 + 2018/9/6 update: [Beam Search in NLP](https://github.com/Albert-xy/study-notes/blob/master/Deep-Learning/nlp/beam_search.md)
