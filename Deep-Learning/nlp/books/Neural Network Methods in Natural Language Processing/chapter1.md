@@ -36,8 +36,7 @@ to learn a correct representation of the given data.
 
 ## Deep learning in nlp
 
- A major usage in nlp is the embedding layer which can transform discrete objects to continuous objects. It's part of the
- training process.
+A major component in neural networks for language is the use of an **embedding** layer, a mapping of discrete symbols to continuous vectors in a relatively low dimensional space.
  
  There are two major kinds of neural networks: feed-forward networks and recurrent / recursive networks.
  
