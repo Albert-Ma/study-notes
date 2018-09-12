@@ -49,7 +49,7 @@ $$
 
 $$
 min_{\omega}J(\omega;X,y)+\alpha||\omega||_1 \\
-或 min_{\omega}J(\omega;X,y)+\alpha||\omega||_2^2
+ min_{\omega}J(\omega;X,y)+\alpha||\omega||_2^2
 $$
 
 更直观的理解看图：
