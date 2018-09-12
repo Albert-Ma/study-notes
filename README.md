@@ -19,5 +19,3 @@
 ### Recurrent Neural Network vs Recursive Neural Network
 
 2018/9/6 update: [notes](https://github.com/Albert-xy/study-notes/blob/master/Deep-Learning/rnn/recurrent_vs_recursive.md)
-
-$x^2$
