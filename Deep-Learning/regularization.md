@@ -48,7 +48,10 @@ $$
 
 
 $$
-min_{\omega}J(\omega;X,y)+\alpha||\omega||_1  \\
+min_{\omega}J(\omega;X,y)+\alpha||\omega||_1 
+$$
+
+$$
 min_{\omega}J(\omega;X,y)+\alpha||\omega||_2^2
 $$
 
