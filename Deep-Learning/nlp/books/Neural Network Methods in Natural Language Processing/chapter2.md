@@ -1,6 +1,3 @@
----
-typora-root-url: ..\ScnPic
----
 
 # Learning basics and Linear models
 
