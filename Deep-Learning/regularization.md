@@ -42,7 +42,9 @@ min_{\omega}J(\omega ;X, y) \\
 s.t. ||\omega||_1 \leq C  \\
 或 ||\omega||_2\leq C
 $$
+
 利用拉格朗日函数，和下式等价：
+
 $$
 min_{\omega}J(\omega;X,y)+\alpha||\omega||_1 \\
 或min_{\omega}J(\omega;X,y)+\alpha||\omega||_2^2
