@@ -40,7 +40,7 @@ The accepted methodology is to use a three-way split of the data into train, val
 ### Binary classification
 
 $$
-\hat y=sign(f(x)) = sign(\bold x.\bold w + b)
+\hat y=sign(f(x)) = sign(x. w + b)
 $$
 
 The output $f(x)$ is in the range $[-\infty, +\infty]$, and we  map it to one of two classes $\{-1, +1\}$ using the *sign* function.
@@ -54,22 +54,22 @@ A central part in the design of linear models, it the design of the feature func
 ### Log-Linear binary classification
 
 $$
-\hat y = \delta(f(\bold x))=\frac 1 {1+e^{-{(\bold x.\bold w+b)}}}
+\hat y = \delta(f(x))=\frac 1 {1+e^{-{(x.w+b)}}}
 $$
 
 We may be interested also in the confidence of the decision, or the probability that the classifier assigns to the class. So map the output  into range [0, 1] using a sigmoid $\theta(x) = \frac 1 {1  + e^{-x}}$.
 $$
-P(\hat y=1|\bold x)=\delta(f(\bold x)) \\
-P(\hat y=0|\bold x)=1 - \delta(f(\bold x))
+P(\hat y=1|x)=\delta(f(x)) \\
+P(\hat y=0|x)=1 - \delta(f(x))
 $$
 
 ### Muti-class classification
 
 We should assign an example to one of the k different classes. A possible solution is to consider k weight vectors and biases, one for each class, and predict the class resulting in the highest score:
 
-The six sets of parameters $w$ can be arranged as a matrix $\bold W$ and a vector $\bold b$:
+The six sets of parameters $w$ can be arranged as a matrix $W$ and a vector $b$:
 $$
-\hat y = f(x) = x.\bold W+\bold b \\
+\hat y = f(x) = x. W+ b \\
 prediction = argmax_i \hat y_{[i]}
 $$
 
@@ -77,11 +77,11 @@ $$
 
 In the multiclass case, we transformed the linear prediction into a probability estimate by passing it through the *softmax* function:
 $$
-softmax(\bold x)_{[i]}=\frac {e^{\bold x_{[i]}}} {\sum_j e^{\bold x_{[j]}}}
+softmax(x)_{[i]}=\frac {e^{x_{[i]}}} {\sum_j e^{x_{[j]}}}
 $$
 
 $$
-\hat y=softmax(\bold x\bold W + \bold b)
+\hat y=softmax(x W + b)
 $$
 
 The softmax transformation forces the values in $\hat y$ to be positive and sum to 1, making them interpretable as a probability distribution.
@@ -98,7 +98,7 @@ xxxxxxxxxxxxxxxxx
 
 ## 6. Training as optimization
 
-We introduce the notion of a *loss function* $L(\hat y, y)$, assigns a numerical score to a predicted output $\hat y$ given the true expected output $y$. The parameters of the learned function (the matrix $\bold W$ and the biases vector $\bold b$) are then set in order to minimize the loss $L$ over the trainning examples. 
+We introduce the notion of a *loss function* $L(\hat y, y)$, assigns a numerical score to a predicted output $\hat y$ given the true expected output $y$. The parameters of the learned function (the matrix $W$ and the biases vector $b$) are then set in order to minimize the loss $L$ over the trainning examples. 
 $$
 \hat \Theta = argmin_{\Theta}L(\Theta) = argmin_{\Theta}\frac 1 n \sum_{i=1}^nL(f(x_i;\Theta), y_i)
 $$
