@@ -33,7 +33,7 @@ $$ NN(x) = g(x(W_{1})+b_{1})W_{2}+b_{2} $$
 Taking the view in chapter 3, the first layer transforms the data into a good representation, while the second layer 
 applies a linear classifier to that representation.
 
-The output of the neural network is a $$ d_{out} $$ dimensional vector. The dimension of the output decide the tasks 
+The output of the neural network is a $ d_{out} $ dimensional vector. The dimension of the output decide the tasks 
 that neural network suits. 
 
 Unlike linear models, the loss function of multi-layer neural networks with respect to their parameters is not convex,
@@ -52,11 +52,11 @@ conditions, and choosing the correct non-linearity for a given task is for the m
 
 **sigmoid:** $f(x) = 1/(1+e^{-x})$
 
-**tanh:** $tanh(x) = (e^(2x-1))/(e^(2x+1))
+**tanh:** $tanh(x) = e^{2x-1}/e^{2x+1}$
 
-**RELU:** $ReLU(x) = max(0,x) = 0 if x<0; otherwise = x$
+**RELU:** $ReLU(x) = max(0,x) = 0, if x<0; otherwise = x$
 
-**hard tanh:** $hardtanh(x) = -1 if x<-1; = 1 if x>1; =x otherwise$
+**hard tanh:** $hardtanh(x) = -1, if x<-1; = 1, if x>1; =x, otherwise$
 
 Figure shows the shapes of the di↵erent activations functions, together with the shapes of their derivatives.
 
@@ -70,9 +70,9 @@ Loss function L(ˆy, y):stating the loss of predicting ˆy when the true output 
 
 The regularizers L1, L2 and the elastic-net are also important for neural networks.In particular, L2 regularization,
 also called weight decay is e↵ective for achieving good generalization performance in many cases, and tuning the 
-regularization strength " is advisable.
+regularization strength is advisable.
 
-Another e↵ective technique for preventing neural networks from overfitting the training data is dropout training[Hinton 
+Another effective technique for preventing neural networks from overfitting the training data is dropout training[Hinton 
 et al., 2012, Srivastava et al., 2014].It works by randomly dropping (setting to 0) half of the neurons in the network 
 (or in a specific layer) in each training example in the stochastic-gradient training.
 

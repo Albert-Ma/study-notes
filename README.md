@@ -8,7 +8,7 @@
 
 ### Neural Network Methods in Natural Language Processing
 
-
++ 2018/9/16 update: chapter3-4's [notes]
 
 + 2018/9/12 update: chapter 2's [notes](https://github.com/Albert-xy/study-notes/tree/master/Deep-Learning/nlp/books/Neural%20Network%20Methods%20in%20Natural%20Language%20Processing/chapter2.md)  and [ppt](
 https://github.com/Albert-xy/study-notes/tree/master/Deep-Learning/nlp/books/Neural%20Network%20Methods%20in%20Natural%20Language%20Processing/NNMNLP_02_LearningBasicsAndLinearModels.pptx)
