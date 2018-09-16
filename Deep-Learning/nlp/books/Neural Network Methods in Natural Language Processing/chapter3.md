@@ -16,7 +16,7 @@ That's the basic problem that linear models sometimes not work for most real app
 So how should we do when data is not linearly separable. Does it separable if data is in a high dimension.
 
 For example, *mapping* data into 2 dimension maybe find a space which can separate 2 class's data.
-$$ y^{^} = f(x) = \phi(x)W +b $$
+$$ y = f(x) = \phi{(x)}W +b $$
 
 In the XOR example the transformed data has the same dimensions as the original one, but often in order to make the data
 linearly separable one needs to map it to a space with a much higher dimension.
@@ -41,7 +41,7 @@ Another different approach is to define a trainable non-linear mapping function 
 classifier. The mapping function also considered as "representation" of the dataset.
 
 For example, the mapping function can take the form of a parameterized linear model, followed by a non-linear activation 
-function g that is applied to each of the output dimensions.$$ y_{^} = \phi(x)W +b $$ $$ \phi(x) = g(xW^{'}+b^{'}) $$
+function g that is applied to each of the output dimensions.$$ y= \phi{(x)}W +b $$, $$ \phi{(x)} = g(xW^{'}+b^{'}) $$
 
 This entie expression can learn both the representation function and the linear classifier on top of it at the same time.
 
