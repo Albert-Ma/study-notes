@@ -69,7 +69,7 @@ Loss function L(ˆy, y):stating the loss of predicting ˆy when the true output 
 ## REGULARIZATION AND DROPOUT
 
 The regularizers L1, L2 and the elastic-net are also important for neural networks.In particular, L2 regularization,
-also called weight decay is e↵ective for achieving good generalization performance in many cases, and tuning the 
+also called weight decay is effective for achieving good generalization performance in many cases, and tuning the 
 regularization strength is advisable.
 
 Another effective technique for preventing neural networks from overfitting the training data is dropout training[Hinton 

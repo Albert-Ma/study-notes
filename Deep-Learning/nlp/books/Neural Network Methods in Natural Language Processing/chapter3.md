@@ -41,9 +41,7 @@ Another different approach is to define a trainable non-linear mapping function 
 classifier. The mapping function also considered as "representation" of the dataset.
 
 For example, the mapping function can take the form of a parameterized linear model, followed by a non-linear activation 
-function g that is applied to each of the output dimensions.
-$$ y_{^} = \phi(x)W +b $$
-$$ \phi(x) = g(xW^{'}+b^{'}) $$
+function g that is applied to each of the output dimensions.$$ y_{^} = \phi(x)W +b $$ $$ \phi(x) = g(xW^{'}+b^{'}) $$
 
 This entie expression can learn both the representation function and the linear classifier on top of it at the same time.
 
