@@ -8,7 +8,9 @@
 
 ### Neural Network Methods in Natural Language Processing
 
-+ 2018/9/16 update: chapter3-4's [notes]
++ 2018/9/16 update: chapter4's [notes](https://github.com/Albert-xy/study-notes/blob/master/Deep-Learning/nlp/books/Neural%20Network%20Methods%20in%20Natural%20Language%20Processing/chapter4.md)
+
++ 2018/9/16 update: chapter3's [notes](https://github.com/Albert-xy/study-notes/blob/master/Deep-Learning/nlp/books/Neural%20Network%20Methods%20in%20Natural%20Language%20Processing/chapter3.md)
 
 + 2018/9/12 update: chapter 2's [notes](https://github.com/Albert-xy/study-notes/tree/master/Deep-Learning/nlp/books/Neural%20Network%20Methods%20in%20Natural%20Language%20Processing/chapter2.md)  and [ppt](
 https://github.com/Albert-xy/study-notes/tree/master/Deep-Learning/nlp/books/Neural%20Network%20Methods%20in%20Natural%20Language%20Processing/NNMNLP_02_LearningBasicsAndLinearModels.pptx)
@@ -18,7 +20,7 @@ https://github.com/Albert-xy/study-notes/tree/master/Deep-Learning/nlp/books/Neu
 
 ## Paper Notes
 
-+2018/9/15 update: [Dropout: A Simple Way to Prevent Neural Networks from Overfitting]()
++ 2018/9/15 update: [Dropout: A Simple Way to Prevent Neural Networks from Overfitting]()
 
 + 2018/9/8 update: [A Neural Probabilistic Language Model]()
 
