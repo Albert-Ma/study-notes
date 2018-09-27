@@ -11,3 +11,5 @@ Big data analysis team, **Text Parser** group share their two week's survey, one
 + [tokenization](survey/tokenization.pptx)
 
 + [text classification](survey/textClassification.pdf)
+
++ [machine translation](survey/machine%20translation.pptx)
