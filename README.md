@@ -34,7 +34,7 @@ https://github.com/Albert-xy/study-notes/tree/master/Deep-Learning/nlp/books/Neu
 
 ## Other Notes
 
-+ 2018/9/28 update: [PGM_HMM_MEMM_CRF]()
++ 2018/9/28 update: [PGM_HMM_MEMM_CRF](https://github.com/Albert-xy/study-notes/blob/master/Deep-Learning/nlp/PGM_HMM_MEMM_CRF.md)
 
 + 2018/9/12 update: [Regularization](https://github.com/Albert-xy/study-notes/blob/master/Deep-Learning/ml/regularization.md)
 
