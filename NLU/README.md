@@ -13,3 +13,5 @@ Big data analysis team, **Text Parser** group share their two week's survey, one
 + [text classification](survey/textClassification.pdf)
 
 + [machine translation](survey/machine%20translation.pptx)
+
++ [entity linking](survey/entity%20linking.pptx)
