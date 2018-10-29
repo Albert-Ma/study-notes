@@ -32,6 +32,8 @@ https://github.com/Albert-xy/study-notes/tree/master/Deep-Learning/nlp/books/Neu
 
 ## Paper Notes
 
++ 2018/10/28 update: [Deep Contextualized Word Representations](https://zhuanlan.zhihu.com/p/37684922)
+
 + 2018/9/15 update: [Dropout: A Simple Way to Prevent Neural Networks from Overfitting]()
 
 + 2018/9/8 update: [A Neural Probabilistic Language Model]()
