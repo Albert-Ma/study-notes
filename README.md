@@ -10,6 +10,8 @@ Chrome显示数学公式[插件](https://chrome.google.com/webstore/detail/githu
 
 ### Neural Network Methods in Natural Language Processing
 
++ 2018/11/1 update: chapter9's [ppt](https://github.com/Albert-xy/study-notes/tree/master/Deep-Learning/nlp/books/Neural%20Network%20Methods%20in%20Natural%20Language%20Processing/NNMNLP_09_Language_Model.pptx)
+
 + 2018/10/24 update: chapter8's [ppt](https://github.com/Albert-xy/study-notes/tree/master/Deep-Learning/nlp/books/Neural%20Network%20Methods%20in%20Natural%20Language%20Processing/NNMNLP_08_From_Textual_Features_to_Inputs.pptx)
 
 + 2018/10/18 update: chapter7's [ppt](https://github.com/Albert-xy/study-notes/tree/master/Deep-Learning/nlp/books/Neural%20Network%20Methods%20in%20Natural%20Language%20Processing/NNMNLP_07_case_studies_of_NLP_features.pptx)
