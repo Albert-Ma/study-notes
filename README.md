@@ -9,6 +9,9 @@ Chrome显示数学公式[插件](https://chrome.google.com/webstore/detail/githu
 ## Book Notes
 
 ### Neural Network Methods in Natural Language Processing
++ 2018/11/13 update: chapter11-12's [ppt](Deep-Learning/nlp/books/Neural%20Network%20Methods%20in%20Natural%20Language%20Processing/NNMNLP_11_12_Word_Embedding.ppt)
+
++ 2018/11/13 update: chapter10's [ppt](Deep-Learning/nlp/books/Neural%20Network%20Methods%20in%20Natural%20Language%20Processing/NNMNLP_10_Pre-trained_Word_Representations.pptx)
 
 + 2018/11/1 update: chapter9's [ppt](https://github.com/Albert-xy/study-notes/tree/master/Deep-Learning/nlp/books/Neural%20Network%20Methods%20in%20Natural%20Language%20Processing/NNMNLP_09_Language_Model.pptx)
 
@@ -43,6 +46,8 @@ https://github.com/Albert-xy/study-notes/tree/master/Deep-Learning/nlp/books/Neu
 + 2018/9/6 update: [Sequence to Sequence Learning with Neural Networks]()
 
 ## Other Notes
+
++ 2018/11/18 update: [Writing Code for NLP Research, EMNLP 2018 Tutorials Announcement](Deep-Learning/nlp/writing_code_for_nlp_research.pdf)
 
 + 2018/9/28 update: [PGM_HMM_MEMM_CRF](https://github.com/Albert-xy/study-notes/blob/master/Deep-Learning/nlp/PGM_HMM_MEMM_CRF.md)
 
