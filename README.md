@@ -36,6 +36,7 @@ https://github.com/Albert-xy/study-notes/tree/master/Deep-Learning/nlp/books/Neu
 https://github.com/Albert-xy/study-notes/tree/master/Deep-Learning/nlp/books/Neural%20Network%20Methods%20in%20Natural%20Language%20Processing/NNMNLP_01_Introduction.pptx)
 
 ## Paper Notes
++ 2018/11/24 update: [Neural Machine Translation of Rare Words with Subword Units](https://zhuanlan.zhihu.com/p/38574684)
 
 + 2018/10/28 update: [Deep Contextualized Word Representations](https://zhuanlan.zhihu.com/p/37684922)
 
