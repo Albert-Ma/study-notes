@@ -47,6 +47,8 @@ https://github.com/Albert-xy/study-notes/tree/master/Deep-Learning/nlp/books/Neu
 + 2018/9/6 update: [Sequence to Sequence Learning with Neural Networks]()
 
 ## Other Notes
++2018/12/03 update:[a review of the recent history of natural language processing](http://blog.aylien.com/a-review-of-the-recent-history-of-natural-language-processing/)
+
 + 2018/11/18 update: [BERT, zhangjunlin from weibo](Deep-Learning/attention/BERTv2.0.pdf)
 
 + 2018/11/18 update: [Writing Code for NLP Research, EMNLP 2018 Tutorials Announcement](Deep-Learning/nlp/writing_code_for_nlp_research.pdf)
